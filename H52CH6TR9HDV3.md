@@ -13,9 +13,11 @@ All drawer dimensions are converted from inches to millimeters for 3D modeling a
 
 ### Chest Drawer Layout
 
-|   L1   |     R1      |
-|   L2   |     R2      |
-|   L3   |     R3      |
+|||
+|-|-|
+|L1|R1|
+|L2|R2|
+|L3|R3|
 
 ### Chest Drawer Dimensions Inches
   
@@ -33,7 +35,7 @@ All drawer dimensions are converted from inches to millimeters for 3D modeling a
 
 ### Chest Drawer Grid
 
-L1, L2, L3 all take the same grid layout. Each drawer needs:
+L1, L2, L3 all take the same grid layout.
 
 Each Drawer
 
@@ -49,11 +51,13 @@ Total Parts
 
 ### Cabinet Drawer Layout
 
-|          C1          |
-|   L1   |     R1      |
-|   L2   |     R2      |
-|   L3   |     R3      |
-|   L4   |     R4      |
+|||
+|-|-|
+|C1|
+|L1|R1|
+|L2|R2|
+|L3|R3|
+|L4|R4|
 
 ### Cabinet Drawer Dimensions Inches
 
