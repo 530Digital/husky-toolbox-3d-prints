@@ -6,6 +6,7 @@ Industrial 52 in. W x 21.5 in. D 15-Drawer Tool Chest and Rolling Cabinet Combo 
 * Internet# 309210140
 * Store SKU# 1004323026
 * Link: <https://www.homedepot.com/p/Husky-Industrial-52-in-W-x-21-5-in-D-15-Drawer-Tool-Chest-and-Rolling-Cabinet-Combo-with-LED-Light-in-Matte-Black-H52CH6TR9HDV3/309210140>
+* [Use and Care Guide](https://images.thdstatic.com/catalog/pdfImages/d4/d4a4424f-b761-4c59-abb4-6da07c8227e7.pdf)
 
 All drawer dimensions are converted from inches to millimeters for 3D modeling and printing.
 
