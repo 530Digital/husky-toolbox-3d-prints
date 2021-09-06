@@ -1,2 +1,3 @@
 .DS_STORE
-in_flight*
+in_progress*
+.gcode
